@@ -6,7 +6,9 @@ Simple react todo app
 Clone the repo 
 
 run `cd react-todo`
+
 run `npm install`
+
 run `npm start`
 
 
