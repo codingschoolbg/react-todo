@@ -3,13 +3,21 @@ Simple react todo app
 
 ## Installation
 
-Clone the repo 
+Make sure you have [Node.js](https://nodejs.org/en/) installed on your PC and some proper terminal.
 
-run `cd react-todo`
+For Windows users, please download [cmder](http://cmder.net/)
 
-run `npm install`
+After that:
 
-run `npm start`
+1. Clone the repo `git clone https://github.com/codingschoolbg/react-todo.git`
+
+2. Access the projects folder `cd react-todo`
+
+3. Install dependencies `npm install`
+
+4. Start the app `npm start`
+
+5. Enjoy and learn!
 
 
 
